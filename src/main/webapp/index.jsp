@@ -18,6 +18,7 @@
     <%-- ryujeongho end --%>
     <%-- jjaejun start --%>
     <style>
+        * {}
         body {
             background-color: snow;
         }
