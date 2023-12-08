@@ -10,6 +10,11 @@
     <title>Together</title>
     <%-- css --%>
     <%-- ryujeongho start --%>
+    <style> table {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    </style>
     <%-- ryujeongho end --%>
     <%-- jjaejun start --%>
     <%-- jjaejun end --%>
