@@ -16,6 +16,7 @@
 
     <%-- script --%>
     <%-- ryujeongho start --%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- ryujeongho end --%>
     <%-- jjaejun start --%>
     <%-- jjaejun end --%>
