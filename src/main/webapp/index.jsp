@@ -12,6 +12,19 @@
     <%-- ryujeongho start --%>
     <%-- ryujeongho end --%>
     <%-- jjaejun start --%>
+    <style>
+        body {
+            background-color: snow;
+        }
+        div {
+            width: 100%;
+            height: 100%;
+            flex: auto;
+        }
+        table {
+            color: aliceblue;
+        }
+    </style>
     <%-- jjaejun end --%>
 
     <%-- script --%>
